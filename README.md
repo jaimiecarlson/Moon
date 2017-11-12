@@ -23,6 +23,9 @@ Studied effects of isoflavones on bone structure in mice by dissection and micro
 
 ### Projects
 
+#### Senior Design
+Constructing a dual hand exoskeleton to allow control of paralyzed hand by functional hand
+
 #### ProtoFluidics
 Designed a modular system of microfluidics to be 3D printed aboard International Space Station
 
