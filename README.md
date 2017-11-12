@@ -14,7 +14,7 @@ Improved internal employee tracking accuracy by developing indoor localization s
 Designed and implemented program to analyze expert surgical video with OpenCV
 Combined program with da Vinci Robotic Surgical system to make interactive augmented reality medical training platform
 
-####Computer Science Teaching Assistant (Data Structures & Algorithms; Introduction to Computer Programming)
+#### Computer Science Teaching Assistant (Data Structures & Algorithms; Introduction to Computer Programming)
 Ran office hours, wrote and graded homework and midterms
 
 #### Researcher, University of Delaware Orthopaedic Bioengineering Lab
@@ -36,10 +36,11 @@ PennApps Semifinalist: Android social media app to track friends’ locations us
 
 #### University of Pennsylvania, M.S.E. Robotics, May 2019
 #### University of Pennsylvania, B.S.E. Bioengineering & Computer Science, May 2018
-	GPA: 3.99/4.00
-	Relevant Coursework: Biomechatronics; Robotics; Computational Robotics; Algorithms; Computer Organization and Design; Networks and Security; Biotransport; Engineering Physiology; Operating Systems; Automata, Computability, and Complexity
+GPA: 3.99/4.00
+Relevant Coursework: Biomechatronics; Robotics; Computational Robotics; Algorithms; Computer Organization and Design; Networks and Security; Biotransport; Engineering Physiology; Operating Systems; Automata, Computability, and Complexity
+
 #### Charter School of Wilmington, May 2014
-	Graduate and Valedictorian
+Graduate and Valedictorian
 
 ### Interests
 Medical devices, surgical robotics, hackathons, classic literature, quizbowl
