@@ -47,4 +47,4 @@ Relevant Coursework: Biomechatronics; Robotics; Computational Robotics; Algorith
 Graduate and Valedictorian
 
 ### Interests
-Medical devices, surgical robotics, hackathons, classic literature, quizbowl
+Medical devices, surgical robotics, hackathons, classic literature, quizbowl, science fiction
