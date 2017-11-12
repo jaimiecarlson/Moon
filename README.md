@@ -13,7 +13,7 @@ Designed and implemented program to analyze expert surgical video with OpenCV
 
 Combined program with da Vinci Robotic Surgical system to make interactive augmented reality medical training platform
 
-### Computer Science Teaching Assistant (Data Structures & Algorithms; Introduction to Computer Programming)
+### Computer Science Teaching Assistant (Data Structures & Algorithms; Introduction to Computer Programming), University of Pennsylvania
 Ran office hours, wrote and graded homework and midterms
 
 ### Researcher, University of Delaware Orthopaedic Bioengineering Lab
