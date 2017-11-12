@@ -4,7 +4,7 @@
 
 ### Work Experience
 
-#### Software Engineer, Neuroflow
+#### Software Engineer, NeuroFlow
 Developing charts library for graphing real-time EEG data
 
 #### Software Engineering Intern, Amazon Robotics
@@ -22,7 +22,7 @@ Studied effects of isoflavones on bone structure in mice by dissection and micro
 
 ### Projects
 
-#### Protofluidics
+#### ProtoFluidics
 Designed a modular system of microfluidics to be 3D printed aboard International Space Station
 Developed webapp to streamline microfluidic design process
 
