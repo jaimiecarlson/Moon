@@ -1,4 +1,4 @@
-# Bioengineer and computer scientist at the University of Pennsylvania
+# Bioengineer and computer scientist at University of Pennsylvania
 
 ## Work Experience
 
