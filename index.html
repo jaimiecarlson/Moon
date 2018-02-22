@@ -10,13 +10,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <br/>
 </head>
 <body>
+    <script>
+        var dataLayer = [{}];
+    </script>
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NGCM9F4"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 <h2> Hi </h2>
 <br/>
-<button id="1" type="button"> Test Button 1 </button>
+<button id="1" type="button" onclick="dataLayer.push({'button1ClickerUsername': 'name'})"> Test Button 1 </button>
 <br/>
 <button id="2" type="button"> Test Button 2 </button>
 <br/>          
