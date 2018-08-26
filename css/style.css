@@ -300,7 +300,7 @@ header {
     #colorlib-blog,
     #colorlib-contact,
     .colorlib-footer {
-      padding: 2em 0; } }
+      padding: 1em 0; } }
 
 #colorlib-hero {
   width: 100%;
@@ -455,7 +455,7 @@ header {
 
 .services {
   margin-bottom: 40px;
-  padding: 2em;
+  padding: 1em;
   background: #fff; }
   .services .icon {
     display: block;
@@ -1277,7 +1277,7 @@ input[type="text"] {
   font-weight: 500; }
 
 #colorlib-subscribe {
-  padding: 2em 0; }
+  padding: 1em 0; }
   #colorlib-subscribe .colorlib-heading {
     margin-bottom: 20px; }
     #colorlib-subscribe .colorlib-heading h2 {
