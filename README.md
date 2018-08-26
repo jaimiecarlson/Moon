@@ -1,1 +1,1 @@
-Personal website of Jaimie Carlson
+Personal website of Jaimie Carlson, robotics engineer 
